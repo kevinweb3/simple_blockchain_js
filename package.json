@@ -1,0 +1,20 @@
+{
+  "name": "simple_blockchain_js",
+  "version": "1.0.0",
+  "description": "账户：\r 区块：\r 加密：\r P2P网络：\r 创世区块：\r 交易：\r 共识机制：",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "bluebird": "^3.7.2",
+    "ed25519": "^0.0.5",
+    "eslint": "^8.52.0",
+    "eslint-plugin-html": "^7.1.0",
+    "js-sha256": "^0.10.1",
+    "level": "^8.0.0"
+  }
+}
